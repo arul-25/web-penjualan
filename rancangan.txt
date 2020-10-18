@@ -1,0 +1,40 @@
+ ------------ Web Penjualan ------------
+ # permasalahan
+ - tidak ada prosedur dalama perekapan data
+ - pencarian data lebih susah
+ - pembuatan perekapan data yang melelahkan dan lama
+ - tidak diketahui berapa banyak hasil keuntungan dan penjualan perbulan
+ - tidak diketahui berapa barang yang tersisa di kios
+ - tidak diketahui harga barang dikios karna tidak mungkin menghapal harga semua barang dikios.
+ - tidak diketahui barang apa saja yang telah habis
+ 
+ # tujuan yang ingin dicapai
+ - adanya web penjualan sebagai alat untuk merekap data baik barang masuk, penjualan barang dikios, perekapan data penjualan barang dan sebagai aplikasi kasir.
+ - UI yang menarik dan menjadikan mudah dalam memahami dan mengoprasikan program.
+ 
+ # keuntungan yang didapat
+ - data yang lengkap, rapih, serta mudah diakses.
+ - adanya sistem penyimpanan data barang masuk
+ - adanya sistem penyimpanan data penjualan
+ - web penjualan dilengkapi dengan alat scan barcode, sehingga tidak perlu mencari barang tertentu dan hanya menscan lalu masuk kedalam keranjang belanja.
+ - fitur input text pencarian seperti di google atau pun bukalapak (entah menggunakan logika fuzzy ataupun yang lainnya)
+ - dapat mengetahui barang yang masuk serta harga baik perhari perbulan ataupun pertahun.
+ - dapat mengetahui barang yang terjual serta harga baik perhari perbulan ataupun pertahun.
+ - dapat mengetahui barang yang paling banyak terjual baik perhari, perubulan ataupun pertahun.
+ - dapat mengetahui sisa barang yang di kios. ketika sisa barang telah mencapai angka tertentu maka akan di tampilkan kelayar 
+    ataupun dikelompokkan kedalam menu stock barang yang tinggal sedikit.
+ - menganalisa prilaku pembeli dalam membeli barang (baik menggunakan algoritam fp-growth atau yang lainnya) dan mengelompokan peletakan barang sehingga pembeli mudah dalam melihat
+    barang yang dicari.
+ - menampilkan graph dari hasil penjualan di kios.
+ - ketika ada pembelian dari pembeli A lalu dimasukkan kedalam keranjang, dan ada pembeli b yang membeli dan ingin membayar sehingga harus melayani pembayaran b terlebih dahulu
+    maka keranjang pembeli A dapat di minimize dan membuat keranjang baru untuk pembeli B.
+ - barang yang ada didalam keranjang dapat banyak dan dapat menghapus sebuah item dalam keranjang belanja.
+ - dapat memprint nota ketika pembeli meminta nota. sehingga tidak menulis nota secara manual.
+ - menganalisa pembelian dengan algoritma peramalan dan menentukan barang apa yang dibeli kedepannya dan berapa jumlahnya.
+ 
+ # data yang dibutuhkan
+ - data penjualan
+ - data pembelian
+ - data apa saja yang ditulis di buku
+ - alur kerja
+ 
