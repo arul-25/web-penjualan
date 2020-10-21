@@ -1,0 +1,5 @@
+ ----------- SISTEM BERJALAN -------------
+- pemilik toko membeli barang untuk dijual
+- pemilik menyimpan nota pembelian barang sebagai patokan dalam menentukan harga barang yang akan di jual kembali
+- pembeli membeli barang
+- pembeli membuat laporan penjualan
