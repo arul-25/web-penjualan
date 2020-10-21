@@ -38,3 +38,10 @@
  - data apa saja yang ditulis di buku
  - alur kerja
  
+ # fitur
+ - saat menginput data barang masuk dapat menginput beberapa data barang sekaligus dengan no faktur yang sama.. tidak perlu membuka form untuk menginput data lagi
+ - input form dengan tipe number harus otomatis sesuai dengan format rupiah saat di ketik
+ - jumlah barang yang di inputkan pada data barang masuk otomatis ditambahkan dengan jumlah stok dari master barang
+
+# permasalhan
+- satuan, ada barang yang mempunya satuan dan ada yang tidak, misal paku (satuan: 7cm; jumlah: 1kg;), selang(satuan: 2meter; jumlah: 2meter)
