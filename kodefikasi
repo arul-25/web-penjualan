@@ -1,0 +1,2 @@
+- barcode = 01(id_kategori)0001(no urut barang) {010001}
+- no_faktur (generate) saat mengisi data barang masuk, dan tidak ada faktur pembeliannya maka no faktu akan di generate berdasarkan tanggal id suplier dan tanggal misal 01(id_suplier)25(tgl hari itu)02(bulan hari itu)2020(tahun hari itu)
